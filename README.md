@@ -84,8 +84,8 @@ This is the planned roadmap for Cascadia Code. Please be aware that the delivery
 
 # Installing Cascadia Code in VS Code
 
-1. Go to `File > Preferences` or hit `Ctrl + ,` in VS Code.
-2. Enter "Font Face" in search field.
+1. Go to `File > Preferences > Settings` or hit `Ctrl + ,` in VS Code.
+2. Enter "Font Family" in search field.
 3. Enter following in Font Face option: `'Cascadia Code', Consolas, 'Courier New', monospace`.
 4. Enable `Font Ligatures` option available just below 'Font Face'.
 5. Press `Enter` and you're good to go.
